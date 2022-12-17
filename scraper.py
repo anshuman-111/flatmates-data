@@ -127,9 +127,6 @@ pg_no = 1
 while listing_df.shape[0] <= 250:  # Loop ends when df has 250 rows   
     MAIN_URL = f"https://flatmates.com.au/rooms/sydney?page={pg_no}"
 
-    # Send get requests to URL 
-    pages = requests.get(MAIN_URL)
-
     # Parse HTML using bs4 html parser    MAIN_URL = f"https://flatmates.com.au/rooms/sydney?page={pg_no}"
 
     # Send get requests to URL 
