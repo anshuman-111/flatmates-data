@@ -1,10 +1,20 @@
 # Flatmates Data
 
-### Upcoming Features
-#### Converting the static HTML file into a Flask Based Application
-#### Interactive UI and dashboard
-#### Expanding current metrics and adding a query based approach.
-#### Integration with WatsonX.ai (trial)
+## Upcoming Features
+<ol>
+  <li>
+    <h3>Converting the static HTML file into a Flask Based Application</h3>
+  </li>
+  <li>
+    <h3>Interactive UI and dashboard</h3>
+  </li>
+  <li>
+    <h3>Expanding current metrics and adding a query based approach</h3>
+  </li>
+  <li>
+    <h3>Integration with WatsonX.ai</h3>
+  </li>
+</ol>
 
 
 #### Flatmates data scraped and visualized using Python (BS4, Pandas, SeaBorn)
